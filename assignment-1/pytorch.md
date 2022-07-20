@@ -3,6 +3,8 @@
 For this lab, we recommend that readers watch the videos in the references section on this page.
 Let us work with a neural network for fashion classification that uses the FashionMNIST dataset. We have prepared an example notebook. To access it, click [here](https://colab.research.google.com/drive/1LeTUFiSrMv0lTxu-lS2w37aEZWARIW1e?usp=sharing).
 
+<a href="https://colab.research.google.com/drive/1LeTUFiSrMv0lTxu-lS2w37aEZWARIW1e?usp=sharing" target="_blank">here</a>
+
 ## **Suggestions:**
 
 1. Run the notebook cells and note all output and runtime.

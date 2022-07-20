@@ -1,6 +1,7 @@
 # **Google Colab**
 
-#### *What is [google Colab](https://colab.research.google.com/)?*
+#### *What is <a href="https://colab.research.google.com/" target="_blank">google Colab</a>?*
+
 
 * Online programming tool
 * Advantages

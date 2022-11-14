@@ -20,3 +20,4 @@ In this assignment, we will explore adversarial generative networks (GAN). The o
 
 [![Curso Online 2021 - Processamento de Imagens - Aula 07](https://i.ytimg.com/vi/Q-JzQewpZys/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPyOCMMP78K1Ser-_0mDOKoO9qBA)](https://www.youtube.com/watch?v=Q-JzQewpZys&list=PLo4jXE-LdDTRrAUBu4xtN28htuAv3tiR3&index=7)
 
+[![Curso Online 2021 - Processamento de Imagens - Aula 08](https://i.ytimg.com/vi/PlQTMgsgS-Y/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGCogVChyMA8=&rs=AOn4CLCG78whV5kic7-EaDD9-bwpydRm5g)](https://www.youtube.com/watch?v=PlQTMgsgS-Y&list=PLo4jXE-LdDTRrAUBu4xtN28htuAv3tiR3&index=8)

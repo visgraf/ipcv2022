@@ -14,7 +14,7 @@ This assignment aims to show the use of a SIREN in practice. In previous assignm
 
 ## Important
 
-The deadline for submitting the assignment is 07/01/2023
+The deadline for submitting the assignment is 07/01/2023.
 
 ## **References**
 

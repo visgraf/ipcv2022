@@ -23,6 +23,7 @@ The deadline for submitting the assignment is 07/01/2023.
 [![Mestrado: Processamento de Imagens - Luiz Velho - Aula 04](https://i.ytimg.com/vi/pqVn_JE84V0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLA8_EGFxerfGn1M8yRz01-PaYNLSQ)](https://www.youtube.com/watch?v=pqVn_JE84V0&list=PLo4jXE-LdDTSWs21bioxuqEaXcLq7NUJB&index=4)
 
 *Papers*
-SIREN, <a href=" https://arxiv.org/abs/2006.09661" target="_blank">click here</a> .
 
-Poisson Image Editing, <a href=" https://dl.acm.org/doi/10.1145/882262.882269" target="_blank">click here</a> .
+SIREN, <a href=" https://arxiv.org/abs/2006.09661" target="_blank">click here</a>.
+
+Poisson Image Editing, <a href=" https://dl.acm.org/doi/10.1145/882262.882269" target="_blank">click here</a>.

@@ -1,7 +1,7 @@
 # Assignment 4
 
 For this lab, we recommend that students read the material in the references section of this page.
-This assignment aims to show the use of a SIREN in practice. In previous assignments, we worked with ReLU and LeakyReLU activation functions. In this assignment, we will work with an activation function in sinusoidal form. <a href=" https://colab.research.google.com/drive/1WFIDNwysy8ot2n_sT_V-5mHx63NhveNT#scrollTo=Z0-L0V9_EAqk" target="_blank">Click here</a> to open a simplified example of SIREN and follow the suggestions subsection instructions.
+This assignment aims to show the use of a SIREN in practice. In previous assignments, we worked with ReLU and LeakyReLU activation functions. In this assignment, we will work with an activation function in sinusoidal form. <a href=" https://colab.research.google.com/drive/1WFIDNwysy8ot2n_sT_V-5mHx63NhveNT?usp=sharing" target="_blank">Click here</a> to open a simplified example of SIREN and follow the suggestions subsection instructions.
 
 ## Suggestions:
 

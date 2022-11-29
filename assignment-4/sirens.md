@@ -9,7 +9,7 @@ This assignment aims to show the use of a SIREN in practice. In previous assignm
 2. Run the cells; we recommend running them one by one to get familiar with the process.
 3. The authors in the paper call attention to the adjustment of $\Omega_0$ initialization. Into the notebook are suggestions for specific sections of the paper; we recommend the students read these parts and try to adjust the $\Omega_0$ value. Afterward, the students can compare their results with the provided example and show us. 
 4. Do a network initialization, but remove the $\Omega_0$ in the hidden layers. Then, write about the network behavior.
-5. To verify the importance of normalization, we suggest removing init-weights and initializing the network to an arbitrary value. Then, write about the network behavior.
+5. To verify the importance of normalization, we suggest removing the init_weights function in the code and initializing the network to an arbitrary value. Then, write about the network behavior.
 6. Write a review saying how we could merge gradient-domain images using SIRENs. Use the Poisson Image Editing material available in the References section. 
 
 ## Important
@@ -25,7 +25,5 @@ The deadline for submitting the assignment is 07/01/2023.
 *Papers*
 
 SIREN, <a href=" https://arxiv.org/abs/2006.09661" target="_blank">click here</a>.
-
-
 
 Poisson Image Editing, <a href=" https://dl.acm.org/doi/10.1145/882262.882269" target="_blank">click here</a>.
